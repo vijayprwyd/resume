@@ -1,0 +1,24 @@
+.we {
+    margin: 0;
+    padding:0;
+    display: inline-block;
+}
+
+.we-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.timeline {
+    margin-right: 120px;
+}
+
+.wes {
+    font-size: 18px;
+    color: rgb(0, 115, 183);
+    margin: 10px 0;
+}
+
+.wed {
+    margin: 0px;
+}

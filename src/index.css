@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(241, 241, 246);
+  padding: 5% 12%;
+}
+
+@media(max-width: 1023px) {
+
+  body {
+    padding: 5%;
+  }
 }
 
 code {

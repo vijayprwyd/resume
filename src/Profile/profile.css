@@ -1,0 +1,25 @@
+
+
+.flex-profile {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.profile-field {
+    font-size: 20px;
+    margin: 21.44px 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 115, 183);
+    font-weight: bolder;
+
+}
+
+.icon {
+    color: black;
+    font-size: 20px;
+    margin-right: 5px;
+}
