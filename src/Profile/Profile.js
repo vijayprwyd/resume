@@ -1,8 +1,6 @@
 import React from "react";
+import { SocialNetworks } from "../SocialNetworks/SocialNetworks";
 import "./profile.css";
-import linkedin from '../assets/linkedin.png';
-import stackoverflow from '../assets/stack_overflow.png';
-
 
 export function Profile({ name, designation, email, phone, location }) {
   return (
@@ -33,18 +31,7 @@ export function Profile({ name, designation, email, phone, location }) {
         </address>
       </div>
 
-      <div style={{ display: "flex" }}>
-        <div>
-          <a href="#">
-            <img src={linkedin} height="40" width="40"></img>
-          </a>
-
-          <a href="#">
-            <img src={stackoverflow} height="40" width="40"></img>
-          </a>
-
-        </div>
-      </div>
+      <SocialNetworks/>
     </div>
   );
 }

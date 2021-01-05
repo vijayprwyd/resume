@@ -25,7 +25,7 @@ export function WorkExperience() {
           Configured Webpack for different environments ( prod / dev ) taking
           care of optimizations in each mode, git hooks to prevent accidental
           commits and integrated with Jenkins pipeline for auto build generation
-          and deployment . Integrated the pugin with all mordern tools like
+          and deployment . Integrated the plugin with all mordern tools like
           Prettier , ESlint, polyfills, React-intl etc
         </li>
         <li>
