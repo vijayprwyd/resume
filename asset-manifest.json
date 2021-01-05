@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.337a8950.chunk.css",
+    "main.js": "/resume/static/js/main.75af6fc0.chunk.js",
+    "main.js.map": "/resume/static/js/main.75af6fc0.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.ba47526f.chunk.js": "/resume/static/js/2.ba47526f.chunk.js",
+    "static/js/2.ba47526f.chunk.js.map": "/resume/static/js/2.ba47526f.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.6692c2789156b2720a89e684b71beb07.js": "/resume/precache-manifest.6692c2789156b2720a89e684b71beb07.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.337a8950.chunk.css.map": "/resume/static/css/main.337a8950.chunk.css.map",
+    "static/js/2.ba47526f.chunk.js.LICENSE.txt": "/resume/static/js/2.ba47526f.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/resume/static/media/github.0ab7c70d.png",
+    "static/media/hackerearth.png": "/resume/static/media/hackerearth.4cd7f438.png",
+    "static/media/linkedin.png": "/resume/static/media/linkedin.15fd5adb.png",
+    "static/media/stack_overflow.png": "/resume/static/media/stack_overflow.5233a552.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d8c91e.js",
+    "static/js/2.ba47526f.chunk.js",
+    "static/css/main.337a8950.chunk.css",
+    "static/js/main.75af6fc0.chunk.js"
+  ]
+}
