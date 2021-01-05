@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "homepage": "http://vijayprwyd.github.io/resume",
+  "homepage": "http://vijayprwyd.github.io/resume-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
