@@ -22,10 +22,9 @@ function App() {
       <AboutMe>
         Full stack software engineer working primarily on UI with 4+ years of
         experience in developing enterprise products.Experienced in developing
-        high performant, responsive, accessible single page web applications
+        high performant, responsive, accessible, scalable and secure single page web applications
         from scratch, refactoring legacy codebases to latest React stack
-        applying modern design patterns and designing scalable, secure,
-        resilient back end applications. Strong background in Mathematics and Algorithms.
+        applying mordern design patterns. Strong background in Mathematics and Algorithms.
       </AboutMe>
 
       <Skills

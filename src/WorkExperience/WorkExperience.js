@@ -26,24 +26,24 @@ export function WorkExperience() {
           care of optimizations in each mode, git hooks to prevent accidental
           commits and integrated with Jenkins pipeline for auto build generation
           and deployment . Integrated the plugin with all mordern tools like
-          Prettier , ESlint, polyfills, React-intl etc
+          Prettier , ESlint, polyfills, React-intl
         </li>
         <li>
           Developed web pages from scratch for various subscription related
-          flows ( upgrade, downgrade, annual subscriptions , addon subscriptions
-          etc ) which were responsive, mobile-friendly, accessible, secure, and
+          flows ( upgrade, downgrade, annual subscriptions , addon subscriptions )
+          which were responsive, mobile-friendly, accessible, secure, and
           highly performant{" "}
         </li>
         <li>
           Incorporated mordern React standards like Error boundaries, lazy
-          loading, memonization etc to improve user experience and setup
+          loading, memonization to improve user experience and setup
           framework for monitoring page loads{" "}
         </li>
         <li>
           {" "}
           Tested web pages with accessibility plugins, google lighthouse, react
           profilers and on various devices apart from the unit and snapshot
-          tests before launching to produciton{" "}
+          tests before launching to production{" "}
         </li>
         <li>
           Integrated Amplitude analytics to study user activities and flows,
