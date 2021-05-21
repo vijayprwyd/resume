@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Profile
         name="Vijay P R"
-        designation="Software Developer 2"
+        designation="Senior Software Engineer"
         email="vijayprwyd@gmail.com"
         phone="+91-7022356026"
         location="Bengaluru"
@@ -22,10 +22,9 @@ function App() {
       <AboutMe>
         Full stack software engineer working primarily on UI with 4+ years of
         experience in developing enterprise products.Experienced in developing
-        high performant, responsive, accessible single page web applications
+        high performant, responsive, accessible, scalable and secure single page web applications
         from scratch, refactoring legacy codebases to latest React stack
-        applying modern design patterns and designing scalable, secure,
-        resilient back end applications. Strong background in Mathematics and Algorithms.
+        applying modern design patterns. Strong background in Mathematics and Algorithms.
       </AboutMe>
 
       <Skills
@@ -36,6 +35,11 @@ function App() {
           "Express",
           "HTML",
           "CSS",
+          "Typescript",
+          "Webpack",
+          "Apollo Client",
+          "Redux",
+          "Responsive Design",
           "Data Structures",
           "Design Patterns",
           "Java",
@@ -43,10 +47,8 @@ function App() {
           "Jira",
           "MySQL",
           "MongoDB",
-          "Responsive Design",
-          "Webpack",
           "Splunk",
-          "Apollo Client",
+          "Amplitude"
         ]}
       />
 
